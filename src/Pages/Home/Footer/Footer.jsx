@@ -1,7 +1,4 @@
-// import { FaFacebook,FaLinkedin } from 'react-icons/fa';
-// import { PiTwitterLogoThin} from 'react-icons/pi';
-// import { AiOutlineYoutube} from 'react-icons/ai';
-// import { CiInstagram} from 'react-icons/ci';
+
 const Footer = () => {
     return (
         <div>
