@@ -16,9 +16,9 @@ const Navbar = () => {
        
        </div>
        <div className="flex flex-wrap justify-center items-center gap-4 text-3xl"> 
-       <FaFacebook></FaFacebook>
+           <a href="https://www.facebook.com/jolshirifilm/" target="_blank" rel="noopener noreferrer"><FaFacebook></FaFacebook></a>     
        <PiTwitterLogoThin></PiTwitterLogoThin>
-       <FaLinkedin></FaLinkedin>
+      <a href="https://www.linkedin.com/in/jolshiri-digital-marketing-8250a7296/" target="_blank" rel="noopener noreferrer"><FaLinkedin></FaLinkedin></a> 
        </div>
         </div>
     );
