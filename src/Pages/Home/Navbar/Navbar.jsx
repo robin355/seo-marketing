@@ -11,7 +11,7 @@ const Navbar = () => {
 </div>
 <div>
 <h2 className='text-2xl font-bold hover:text-[#0693e3]'>Jolshiridigital.com</h2>
-       <p className='text-gray-400'>A Friendly SEO, Marketing Agency, and Social Media <br /> Theme</p>
+       <p className='text-gray-400'>A Friendly Digital Marketing Agency.</p>
 </div>
        
        </div>
