@@ -2,14 +2,10 @@
 const Support = () => {
     return (
         <div>
-            <div className="lg:grid grid-cols-3 mt-[100px] lg:p-[30px]">
+            <div className="lg:grid grid-cols-3 mt-[100px] lg:p-[50px]">
                 <div className="">
-                    <h1 className="text-3xl font-bold hover:text-[#0693e3]">jolshiridigital.com</h1>
-                    <p className="text-gray-400">A Friendly SEO, Marketing Agency, and Social Media Theme</p>
-                    <br />
-                    <h1 className="text-3xl font-bold">Newsletter Signup</h1>
-                    <br />
-                    <p className="text-gray-400">[newsletter_form type=”minimal”]</p>
+                    <h1 className="text-3xl font-bold hover:text-[#0693e3]">Jolshiridigital.com</h1>
+                    <p className="text-gray-400">Digital Marketing Agency</p>
                 </div>
                 <div>
                     <h1 className="text-3xl font-bold"> Quick Links</h1>

@@ -10,7 +10,7 @@ const Feature = () => {
                 <div className="lg:grid gap-4 grid-cols-3 lg:p-8">
                     <div>
                     <div className="card shadow-xl">
-  <figure><img src="../../../../src/assets/featured-content-1.jpg" alt="Shoes" /></figure>
+  <figure><img src="https://www.jolshiridigital.com/wp-content/themes/bizboost/assets/images/featured-content-1.jpg" alt="Shoes" /></figure>
   <div className="card-body">
     <h2 className="card-title">Creative Lights</h2>
     <p className="text-gray-400">Lorem ipsum dolor sit amet consecte tur adipiscing elit integer fermentum in orci lorem ipsum.</p>
@@ -23,7 +23,7 @@ const Feature = () => {
                     <div> 
 
                     <div className="card shadow-xl">
-  <figure><img src="../../../../src/assets/featured-content-2.jpg" alt="Shoes" /></figure>
+  <figure><img src="https://www.jolshiridigital.com/wp-content/themes/bizboost/assets/images/featured-content-2.jpg" alt="Shoes" /></figure>
   <div className="card-body">
     <h2 className="card-title">Mobile Photography</h2>
     <p className="text-gray-400">Lorem ipsum dolor sit amet consecte tur adipiscing elit integer fermentum in orci lorem ipsum.</p>
@@ -36,7 +36,7 @@ const Feature = () => {
                     <div>
                         
                     <div className="card shadow-xl">
-  <figure><img src="../../../../src/assets/featured-content-3.jpg" alt="Shoes" /></figure>
+  <figure><img src="https://www.jolshiridigital.com/wp-content/themes/bizboost/assets/images/featured-content-3.jpg" alt="Shoes" /></figure>
   <div className="card-body">
     <h2 className="card-title">Vintage Camera</h2>
     <p className="text-gray-400">Lorem ipsum dolor sit amet consecte tur adipiscing elit integer fermentum in orci lorem ipsum.</p>

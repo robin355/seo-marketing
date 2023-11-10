@@ -10,7 +10,7 @@ const Client = () => {
          <p className="text-2xl font-semibold text-gray-400">Happy Clients</p>
             </div>
             <div>
-            <h1 className="text-3xl font-bold">215</h1>
+            <h1 className="text-3xl font-bold">2015</h1>
             <p className="text-2xl font-semibold text-gray-400">Hours Spents</p>
             </div>
             <div>
